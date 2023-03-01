@@ -34,24 +34,28 @@ curators to provide guidance on any precustodial actions taken by the Library.
 ## 2.1 Consultations with donors
 
 Prior to a collection being acquired by the Rose Library, the Head of Collection 
-Processing may consult with curators to draft an [Operational Impact Statement](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA") to assess the overall space and supply needs of a collection, as well as cost of transfer, accessioning, processing, and storing a collection.  
+Processing may consult with curators and other acquisitions staff to draft an [Operational Impact Statement](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA") to assess the overall space and supply needs of a collection, as well as cost of transfer, accessioning, processing, and storing a collection.  
 
 Additionally, Collection Services staff may meet with donors or curators to provide 
 guidance and assistance on matters such as: 
 
 *	Packing and shipping
-*	Transfer of of born-digital material (see forms and procedures [here](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents?csf=1&web=1&e=dQyJsr> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents?csf=1&web=1&e=dQyJsr")) 
+*	Transfer of born-digital material (see forms and procedures [here](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents?csf=1&web=1&e=dQyJsr> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents?csf=1&web=1&e=dQyJsr")) 
 *	Appraisal
 *	Arrangement and description
 *	Conservation
 
+The Emory University Oral History Program Coordinator may act as either acquisitions staff or as donor depending on role in creation of materials and should be consulted when oral history materials are acquired.
+
 ## 2.2 Collections receiving 
 
-Collections receiving is the physical transfer of collection material from a donor, individual seller, or vendor to the Stuart A. Rose Manuscript, Archives, & Rare Book Library. The primary point of contact for collections receiving for Emory University Archives at the Rose Library is the University Archivist. The primary point of contact for collections receiving for all other units at the Rose Library is the Accessioning Archivist.
+Collections receiving is the physical transfer of collection material from a donor, individual seller, or vendor to the Stuart A. Rose Manuscript, Archives, & Rare Book Library. The primary point of contact for collections receiving for Emory University Archives at the Rose Library is the University Archivist. The primary point of contact for collections receiving for all other units at the Rose Library is the Accessioning Archivist (open-ended EUOP projects should be transferred at the end of each semester).
 
 ### 2.2.1 Receipt of New or Potential Acquisitions 
 
-All collection material should be received and opened by the Accessioning Archivist. 
+All collection material should be received and opened by the Accessioning Archivist. Digital Archivist will assist in the transfer of of born-digital materials, and EUOP Coordinator will be consulted on digital transfers of oral histories.  
+
+
 
 All packages delivered onsite will be delivered to the main Woodruff Library mailroom, and mailroom staff will contact the Accessioning Archivist for pickup. The main Woodruff Library mailroom on Level 2 is not a secure space and collection material should be moved to a secure holdings location as soon as possible upon arrival. 
 
@@ -74,21 +78,23 @@ responsibility to notify the donor/seller. The Accessioning Archivist
 can help coordinate return of the material once the donor/seller has been notified 
 by the curator.
 
+If a collection is fully digital (i.e. received on hard drive or via file transfer), the Digital Archivist will facilitate the transfer via LIBSAFE Go or other mechanism if necessary and verify that the content is complete and correct.
+
 For acquisitions logs prior to the implementation of ArchivesSpace, please see the [Rose Acquisitions Log folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Acquisitions%20Log?csf=1&web=1&e=WILjX1> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Acquisitions%20Log?csf=1&web=1&e=WILjX1") on OneDrive.
 
 ### 2.2.2 Paperwork<a href="#anchor1"><sup>1</sup></a>
 
 No collection material may be cataloged or accessioned until the appropriate 
-paperwork has been received. All original paperwork should be transferred to the Accessioning Archivist.  
+paperwork has been received. All original paperwork should be transferred to the Accessioning Archivist for entry into ArchivesSpace as necessary.  
 
-**Managing Paperwork in OneDrive/SharePoint**
+**Managing Paperwork in SharePoint**
 
-Rose staff stores and manages all acquisitions-related paperwork on OneDrive. OneDrive allows 
+Rose staff stores and manages all acquisitions-related paperwork on Sharepoint. Sharepoint allows 
 staff to access shared folders and communicate with one another inside the 
 application, creating and maintaining a record of communications for each 
 acquisition.  
 
-There are two OneDrive folders that we use to manage this process. These can be found in the EUV Rose Library document library under Acquisitions and include the [Rose Library 
+There are two Sharepoint folders that we use to manage this process. These can be found in the EUV Rose Library document library under Acquisitions and include the [Rose Library 
 Purchases folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases?csf=1&web=1&e=ENpVuR> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases?csf=1&web=1&e=ENpVuR") and the [Rose Library Gifts-in-Kind folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Gifts-in-Kind?csf=1&web=1&e=CBbtB3> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Gifts-in-Kind?csf=1&web=1&e=CBbtB3"). The organization of these folders is different but should be straight forward. Most staff should not be updating or changing paperwork in these folders but, rather, using them for reference or as part of the accessioning process. As new collections move through the acquisitions process, the Accessioning Archivist will update the files and move or update the paperwork as needed. As paperwork moves through the process, the Accessioning Archivist will use the tagging, commenting, and task list functions in OneDrive to update Rose Library and other staff members about the status of the acquisition or to alert someone when an action is required.
 
 There is a top level folder in the Acquisitions folder called [Potential Acquisitions Reports](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Potential%20Acquisitions%20Reports?csf=1&web=1&e=5VDPmW> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Potential%20Acquisitions%20Reports?csf=1&web=1&e=5VDPmW") for acquisitions to be discussed during curators meetings. When a curator completes the Potential Acquisitions Report form, a formatted Word document of the results will appear in this folder while, simultaneously, a record of the results appears in the Acquisitions & Accessioning Airtable base.
@@ -185,6 +191,11 @@ Unsolicited gifts received are documented in the curatorial folders, usually wit
 
 While Rose Library staff will make an effort to obtain a Gift-in-Kind Contribution Form for AAE, it is ultimately the responsibility of AAE to obtain this form from donors. AAE should primarily work with curators to obtain this form, as opposed to Collection Services staff.
 
+**Managing Emory University records and Emory University Oral History Program Transfers OneDrive/SharePoint**
+
+(TBD)
+
+
 ### 2.2.3 Financial Appraisal
 
 Collections may be appraised in two circumstances:
@@ -224,24 +235,17 @@ Rose Library administrative and custodial control over collections and shows tha
 library is acting in good faith when accepting archival material by documenting the 
 transfer and its terms. 
 
-The Rose Library aims to make all new acquisitions available to researchers 
-immediately following accessioning. Therefore, accessioning new material requires 
-sufficient description to make the collection discoverable and usable. Material must 
-be described at minimum at the box level, but other descriptive information may be 
-limited. Detailed processing is not common at this time, though may be warranted 
-(e.g. the collection is quite small, researcher need is high). 
+Minimal processing at the point of accessioning is done to make all new acquisitions available to researchers 
+immediately following accessioning. Detailed processing is not common at this time, though may be warranted (e.g. the collection is quite small, researcher need is high). After accessioning is completed, determine the appropriate [level of processing](/04-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION) and move forward with creating the descriptive documents.  Material must be described, at minimum, at the box level. 
 
-Determine the appropriate [level of processing](/04-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION) at the time of accessioning and then move forward with creating the descriptive documents.
 
 ### 2.3.1 Managing Accessioning Workflow
 
 *Note: This workflow was fully implemented for Fiscal Year 2019 (FY19). Collection material received prior to FY19 will be accessioned in ArchivesSpace but may not follow current process.*
 
-When material has been either acknowledged or paid for and is ready to be accessioned 
-the Accessioning Archivist will share this information with the 
-accessioning team.
+When material has been either acknowledged or paid for and is ready to be accessioned the Accessioning Archivist will share this information with the accessioning team.
 
-*	The Accessioning Archivist maintains an Airtable with all new 
+*	The Accessioning Archivist maintains an Airtable [(documentation)](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/2022-07-13%2010.03.31%20Container%20Management/Container%20Management%20in%20Airtable.docx?d=wadcad7d775af402a93f478eb886e8464&csf=1&web=1&e=HfBcFc> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/2022-07-13%2010.03.31%20Container%20Management/Container%20Management%20in%20Airtable.docx?d=wadcad7d775af402a93f478eb886e8464&csf=1&web=1&e=HfBcFc") with all new 
 	manuscript acquisitions, and there is a view called "Accessioning To-Be-Assigned" populated with the ones that are ready for discussion at the 
 	weekly accessioning meeting.
 *	During this meeting, the Accessioning Archivist updates the team on 
@@ -269,6 +273,7 @@ The system of record for accession information is [ArchivesSpace](<https://emory
 	*	In the disposition field of the basic information sub-record, describe the disposition of each portion; provide a brief description of the material and the title of the collection to which it is being added
 *	Add or update the status of the acquisition in the [Acquisitions & Accessioning Airtable base](<https://airtable.com/shrCBB24THckYDtOa> "https://airtable.com/shrCBB24THckYDtOa")
 *	Add the location of the material to the Pending tab in the [Master Shelf List](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Master%20shelf%20list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=ULnYUi> "https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Master%20shelf%20list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=ULnYUi").
+*	If materials are fully digital and recieved on hard drive or via file transfer, Accessioning Archivist will include the Digital Archivist who will facilitate transfer via LIBSAFE Go or other mechanism if necessary and verifiy the content is complete and correct.
 
 **At the time of accessioning, staff will:**
 
@@ -520,16 +525,16 @@ Like all collection material, born-digital media and files should not be accessi
 If a hybrid collection includes known born-digital media and/or hardware:
 
 * During the weekly accessioning meeting, the Accessioning Archivist assigns hybrid collection to a member of the accessioning team. 
-* The accessioning archivist adds information regarding any known born-digital media and/or hardware to the born-digital inventory, which is stored as a tab in the master shelf list.
-* The accessioning archivist accessions the born-digital media and/or hardware with the rest of the collection, using the digital archives controlled vocabulary (listed below) to describe what is included.
-* Archivists should keep smaller pieces of born-digital media such as floppy disks or flash drives with the collection when moved to the stacks. The Digital Archivist and Accessioning Archivist will identify a storage location for computer towers and laptops.  The accessioning team member will shelve the computer and record the location in the born-digital inventory and the master shelf list.
-* If it is a small amount of born-digital material, the accessioning archivist should create the disk images for the collection.  This decision should be made in consultation with the digital archivist.
+* The Accessioning Archivist adds information regarding any known born-digital media and/or hardware to the born-digital inventory, which is stored as a tab in the master shelf list.
+* The Accessioning Archivist accessions the born-digital media and/or hardware with the rest of the collection, using the digital archives controlled vocabulary (listed below) to describe what is included.
+* Archivists should keep smaller pieces of born-digital media such as floppy disks or flash drives with the collection when moved to the stacks and update the Digital Archives tab in the [shelf list](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Master%20shelf%20list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=YHN6ZZ> "https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Master%20shelf%20list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=YHN6ZZ"). The Digital Archivist and Accessioning Archivist will identify a storage location for computer towers and laptops.  The accessioning team member will shelve the computer and record the location in the born-digital inventory and the master shelf list.
+* If it is a small amount of born-digital material, the accessioning archivist should create the disk images for the collection.  This decision should be made in consultation with the Digital Archivist.
 
 If a collection (or addition to a collection) is comprised exclusively of born-digital media and/or hardware:
 
-* The Accessioning Archivist notifies and assigns accessioning responsibilities to the Digital Archivist. born-digital media and/or hardware is temporarily stored in the accessioning area until retrieved by the digital archivist for accessioning.
-* The digital archivist accessions the born-digital media and/or hardware, using the digital archives controlled vocabulary (see [2.3.4.1 Digital archives controlled vocabulary](#2341-digital-archives-controlled-vocabulary)) to describe what is included.
-* Where possible, the digital archivist will image disks and ingest disk images into the digital repository at the point of accessioning.
+* The Accessioning Archivist notifies and assigns accessioning responsibilities to the Digital Archivist; born-digital media and/or hardware is temporarily stored in the accessioning area until retrieved by the digital archivist for accessioning.
+* The Digital Archivist accessions the born-digital media and/or hardware, using the digital archives controlled vocabulary (see [2.3.4.1 Digital archives controlled vocabulary](#2341-digital-archives-controlled-vocabulary)) to describe what is included.
+* Where possible, the Digital Archivist will image disks and ingest disk images into the digital repository at the point of accessioning.
 * The digital archivist adds information about the file transfer to the born-digital inventory, which is stored as a tab in the master shelf list. The archivist should also note whether they have ingested the material into the digital repository.
 * The digital archivist creates BD box(es) for accessioned media, including hard drives removed from laptops and computer towers.  If it is not possible to remove a hard drive from its casing, the location of the hardware will be recorded on the master shelf list and the born-digital inventory.
 
@@ -537,19 +542,21 @@ If a collection (or addition to a collection) is comprised exclusively of born-d
 
 If a hybrid collection includes a file transfer:
 
-* The receiving digital archivist notifies the Accessioning Archivist that a file transfer has been received.
-* The receiving digital archivist moves the transferred files to a temporary storage location on the digital archive lab’s local hard drives. Due to preservation concerns, the digital archivist may ingest transferred files into the digital repository prior to the completion of accessioning.
+* The receiving Digital Archivist notifies the Accessioning Archivist that a file transfer has been received.
+* The receiving Digital Archivist moves the transferred files via LIBSAFE Go or mechanism if necessary prior to the completion of accessioning.
 * During the weekly accessioning meeting, the Accessioning Archivist assigns hybrid collection to a member of the accessioning team. 
-* The accessioning archivist adds information about the file transfer to the born-digital inventory, and notes whether they have ingested the files into the digital repository.
+* The Accessioning Archivist adds information about the file transfer to the born-digital inventory, and notes whether they have ingested the files into the digital repository.
 * The accessioning archivist accessions the file transfer with the rest of the collection, using the term “Digital files” taken from the digital archives controlled vocabulary (see [2.3.4.1 Digital archives controlled vocabulary](#2341-digital-archives-controlled-vocabulary)) to describe what is included.
 
 If a collection (or addition to a collection) is comprised exclusively of a file transfer:
 
-* The receiving digital archivist notifies the Accessioning Archivist that a file transfer has been received.
-* During the weekly accessioning meeting, the Accessioning Archivist assigns the collection to a digital archivist. 
-* The digital archivist accessions the file transfer, using the term “Digital files” taken from the digital archives controlled vocabulary (see [2.3.4.1 Digital archives controlled vocabulary](#2341-digital-archives-controlled-vocabulary)) to describe what is included.
-* The digital archivist ingests the transferred files into the digital repository.
-* The digital archivist adds information about the file transfer to the born-digital inventory, and notes that files have been ingested into the digital repository.
+* The receiving Digital Archivist notifies the Accessioning Archivist that a file transfer has been received.
+* During the weekly accessioning meeting, the Accessioning Archivist assigns the collection to the Digital Archivist. 
+* The Digital Archivist accessions the file transfer, using the term “Digital files” taken from the digital archives controlled vocabulary (see [2.3.4.1 Digital archives controlled vocabulary](#2341-digital-archives-controlled-vocabulary)) to describe what is included.
+* The Digital Archivist ingests the transferred files into the digital repository.
+* The Digital Archivist adds information about the file transfer to the born-digital inventory, and notes that files have been ingested into the digital repository.
+
+EOHP collections and additions, acquired through file transfers, will be routed to the Audiovisual Conservator for file processing and Keep/Aviary upload (upon prior approval of EOHP Coordinator and RL Digital Strategies Committee)
 
 ### 2.3.4.1 Digital Archives Controlled Vocabulary
 
